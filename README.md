@@ -17,7 +17,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Sample 1 Ours | Sample 1 GT | Sample 2 Ours | Sample 2 GT |
 |---------------|-------------|---------------|-------------|
-| <img src="allen_gifs/dna_3_test.gif" width="256"> | <img src="allen_gifs/dna_3_gt.gif" width="256"> | <img src="allen_gifs/dna_4_test.gif" width="256"> | <img src="allen_gifs/dna_4_gt.gif" width="256"> |
+| <img src="allen_gifs/dna_3_ours.gif" width="128"> | <img src="allen_gifs/dna_3_gt.gif" width="128"> | <img src="allen_gifs/dna_4_ours.gif" width="128"> | <img src="allen_gifs/dna_4_gt.gif" width="128"> |
 
 <br><br>
 
@@ -31,7 +31,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| <img src="allen_gifs/membrane_3_test.gif" width="256"> | <img src="allen_gifs/membrane_3_gt.gif" width="256"> |
+| <img src="allen_gifs/membrane_3_ours.gif" width="128"> | <img src="allen_gifs/membrane_3_gt.gif" width="128"> |
 
 <br><br>
 
@@ -41,7 +41,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| <img src="allen_gifs/membrane_4_test.gif" width="256"> | <img src="allen_gifs/membrane_4_gt.gif" width="256"> |
+| <img src="allen_gifs/membrane_4_ours.gif" width="128"> | <img src="allen_gifs/membrane_4_gt.gif" width="128"> |
 
 <br><br>
 
@@ -55,7 +55,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| <img src="allen_gifs/structure_3_test.gif" width="256"> | <img src="allen_gifs/structure_3_gt.gif" width="256"> |
+| <img src="allen_gifs/structure_3_ours.gif" width="128"> | <img src="allen_gifs/structure_3_gt.gif" width="128"> |
 
 <br><br>
 
@@ -65,4 +65,4 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| <img src="allen_gifs/structure_4_test.gif" width="256"> | <img src="allen_gifs/structure_4_gt.gif" width="256"> |
+| <img src="allen_gifs/structure_4_ours.gif" width="128"> | <img src="allen_gifs/structure_4_gt.gif" width="128"> |
