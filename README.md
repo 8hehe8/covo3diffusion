@@ -18,7 +18,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| ![](allen_gifs/dna_3_test.gif) | ![](allen_gifs/dna_3_gt.gif) |
+| <img src="allen_gifs/dna_3_test.gif" width="256"> | <img src="allen_gifs/dna_3_gt.gif" width="256"> |
 
 <br><br>
 
@@ -28,7 +28,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| ![](allen_gifs/dna_4_test.gif) | ![](allen_gifs/dna_4_gt.gif) |
+| <img src="allen_gifs/dna_4_test.gif" width="256"> | <img src="allen_gifs/dna_4_gt.gif" width="256"> |
 
 <br><br>
 
@@ -38,7 +38,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| ![](allen_gifs/membrane_3_test.gif) | ![](allen_gifs/membrane_3_gt.gif) |
+| <img src="allen_gifs/membrane_3_test.gif" width="256"> | <img src="allen_gifs/membrane_3_gt.gif" width="256"> |
 
 <br><br>
 
@@ -48,7 +48,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| ![](allen_gifs/membrane_4_test.gif) | ![](allen_gifs/membrane_4_gt.gif) |
+| <img src="allen_gifs/membrane_4_test.gif" width="256"> | <img src="allen_gifs/membrane_4_gt.gif" width="256"> |
 
 <br><br>
 
@@ -58,7 +58,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| ![](allen_gifs/structure_3_test.gif) | ![](allen_gifs/structure_3_gt.gif) |
+| <img src="allen_gifs/structure_3_test.gif" width="256"> | <img src="allen_gifs/structure_3_gt.gif" width="256"> |
 
 <br><br>
 
@@ -68,4 +68,4 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Ours | GT |
 |------|----|
-| ![](allen_gifs/structure_4_test.gif) | ![](allen_gifs/structure_4_gt.gif) |
+| <img src="allen_gifs/structure_4_test.gif" width="256"> | <img src="allen_gifs/structure_4_gt.gif" width="256"> |
