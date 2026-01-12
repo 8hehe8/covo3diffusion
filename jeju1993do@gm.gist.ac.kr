@@ -11,13 +11,18 @@
       color: #111;
       background: #fff;
     }
+sup {
+  font-size: 0.7em;
+  vertical-align: super;
+  line-height: 0;
+}
     .container {
       max-width: 1100px;
       margin: 0 auto;
     }
-    .sep {
-    border-left: 2px solid #ccc;
-    }
+.sep {
+  border-left: 2px solid #bbb;
+}
     h1 {
       font-size: 26px;
       text-align: center;
