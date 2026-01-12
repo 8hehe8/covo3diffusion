@@ -8,36 +8,64 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 
 
-
 # Results
 
+<br>
+
 ### DNA sample 1
+
+<br>
+
 | Ours | GT |
 |------|----|
 | ![](allen_gifs/dna_3_test.gif) | ![](allen_gifs/dna_3_gt.gif) |
 
+<br><br>
+
 ### DNA sample 2
+
+<br>
+
 | Ours | GT |
 |------|----|
 | ![](allen_gifs/dna_4_test.gif) | ![](allen_gifs/dna_4_gt.gif) |
 
+<br><br>
+
 ### Membrane sample 1
+
+<br>
+
 | Ours | GT |
 |------|----|
 | ![](allen_gifs/membrane_3_test.gif) | ![](allen_gifs/membrane_3_gt.gif) |
 
+<br><br>
+
 ### Membrane sample 2
+
+<br>
+
 | Ours | GT |
 |------|----|
 | ![](allen_gifs/membrane_4_test.gif) | ![](allen_gifs/membrane_4_gt.gif) |
 
+<br><br>
 
 ### Structure sample 1
+
+<br>
+
 | Ours | GT |
 |------|----|
 | ![](allen_gifs/structure_3_test.gif) | ![](allen_gifs/structure_3_gt.gif) |
 
+<br><br>
+
 ### Structure sample 2
+
+<br>
+
 | Ours | GT |
 |------|----|
 | ![](allen_gifs/structure_4_test.gif) | ![](allen_gifs/structure_4_gt.gif) |
