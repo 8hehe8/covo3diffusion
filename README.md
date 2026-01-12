@@ -17,7 +17,7 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 | Sample 1 Ours | Sample 1 GT | Sample 2 Ours | Sample 2 GT |
 |---------------|-------------|---------------|-------------|
-| <img src="allen_gifs/dna_3_ours.gif" width="128"> | <img src="allen_gifs/dna_3_gt.gif" width="128"> | <img src="allen_gifs/dna_4_ours.gif" width="128"> | <img src="allen_gifs/dna_4_gt.gif" width="128"> |
+| <img src="allen_gifs/dna_3_ours.gif" width="128"> | <img src="allen_gifs/dna_gt_3_-128_19_170.gif" width="128"> | <img src="allen_gifs/dna_4_ours.gif" width="128"> | <img src="allen_gifs/dna_gt_4_-17_-11_-17.gif" width="128"> |
 
 <br><br>
 
@@ -25,23 +25,9 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 <br>
 
-### Membrane sample 1
-
-<br>
-
-| Ours | GT |
-|------|----|
-| <img src="allen_gifs/membrane_3_ours.gif" width="128"> | <img src="allen_gifs/membrane_3_gt.gif" width="128"> |
-
-<br><br>
-
-### Membrane sample 2
-
-<br>
-
-| Ours | GT |
-|------|----|
-| <img src="allen_gifs/membrane_4_ours.gif" width="128"> | <img src="allen_gifs/membrane_4_gt.gif" width="128"> |
+| Sample 1 Ours | Sample 1 GT | Sample 2 Ours | Sample 2 GT |
+|---------------|-------------|---------------|-------------|
+| <img src="allen_gifs/membrane_3_ours.gif" width="128"> | <img src="allen_gifs/membrane_gt_3_-1_3_145.gif" width="128"> | <img src="allen_gifs/membrane_4_ours.gif" width="128"> | <img src="allen_gifs/membrane_gt_4_334_-32_-3.gif" width="128"> |
 
 <br><br>
 
@@ -49,20 +35,6 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 <br>
 
-### Structure sample 1
-
-<br>
-
-| Ours | GT |
-|------|----|
-| <img src="allen_gifs/structure_3_ours.gif" width="128"> | <img src="allen_gifs/structure_3_gt.gif" width="128"> |
-
-<br><br>
-
-### Structure sample 2
-
-<br>
-
-| Ours | GT |
-|------|----|
-| <img src="allen_gifs/structure_4_ours.gif" width="128"> | <img src="allen_gifs/structure_4_gt.gif" width="128"> |
+| Sample 1 Ours | Sample 1 GT | Sample 2 Ours | Sample 2 GT |
+|---------------|-------------|---------------|-------------|
+| <img src="allen_gifs/structure_3_ours.gif" width="128"> | <img src="allen_gifs/structure_gt_3_-24_12_31.gif" width="128"> | <img src="allen_gifs/structure_4_ours.gif" width="128"> | <img src="allen_gifs/structure_gt_4_-19_-31_-36.gif" width="128"> |
