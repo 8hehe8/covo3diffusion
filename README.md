@@ -6,13 +6,16 @@ Eunjung Jo†, Hyun Jung Lee†, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 † These authors contributed equally to this work.
 
-</div>
 
 # Results
 
 <br>
 
-## DNA
+## Allen Cell dataset
+
+<br> 
+
+### DNA
 
 <br>
 
@@ -22,7 +25,7 @@ Eunjung Jo†, Hyun Jung Lee†, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 <br><br>
 
-## Membrane
+### Membrane
 
 <br>
 
@@ -32,10 +35,14 @@ Eunjung Jo†, Hyun Jung Lee†, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 <br><br>
 
-## Structure
+### Structure
 
 <br>
 
 | Sample 1 Ours | Sample 1 GT | Sample 2 Ours | Sample 2 GT |
 |---------------|-------------|---------------|-------------|
 | <img src="allen_gifs/strucutre_ours_3.gif" width="128"> | <img src="allen_gifs/structure_gt_3_-24_12_31.gif" width="128"> | <img src="allen_gifs/structure_ours_4.gif" width="128"> | <img src="allen_gifs/structure_gt_4_-19_-31_-36.gif" width="128"> |
+
+
+</div>
+
