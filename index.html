@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CoVo3Diffusion</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 40px 20px;
+      color: #111;
+      background: #fff;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 26px;
+      text-align: center;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .authors {
+      text-align: center;
+      font-size: 15px;
+      margin-bottom: 6px;
+    }
+    .equal {
+      text-align: center;
+      font-size: 13px;
+      margin-bottom: 36px;
+    }
+    h2 {
+      margin-top: 50px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid #ddd;
+    }
+    h3 {
+      margin-top: 32px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 14px;
+    }
+    th, td {
+      text-align: center;
+      padding: 8px;
+    }
+    img {
+      border: 1px solid #ddd;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <h1>
+      Consistency Preserved 3D Volume Reconstruction from Sparse 2D Slices via a Diffusion Framework for Volumetric Optical Imaging
+    </h1>
+
+    <div class="authors">
+      Eunjung Jo†, Hyun Jung Lee†, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
+    </div>
+
+    <div class="equal">
+      † These authors contributed equally to this work.
+    </div>
+
+    <h2>Results</h2>
+    <h3>Allen Cell Dataset</h3>
+
+    <h3>DNA</h3>
+    <table>
+      <tr>
+        <th>Sample 1 Ours</th>
+        <th>Sample 1 GT</th>
+        <th>Sample 2 Ours</th>
+        <th>Sample 2 GT</th>
+      </tr>
+      <tr>
+        <td><img src="./allen_gifs/dna_ours_3.gif" width="128"></td>
+        <td><img src="./allen_gifs/dna_gt_3_-128_19_170.gif" width="128"></td>
+        <td><img src="./allen_gifs/dna_ours_4.gif" width="128"></td>
+        <td><img src="./allen_gifs/dna_gt_4_-17_-11_-17.gif" width="128"></td>
+      </tr>
+    </table>
+
+    <h3>Membrane</h3>
+    <table>
+      <tr>
+        <th>Sample 1 Ours</th>
+        <th>Sample 1 GT</th>
+        <th>Sample 2 Ours</th>
+        <th>Sample 2 GT</th>
+      </tr>
+      <tr>
+        <td><img src="./allen_gifs/membrane_ours_3.gif" width="128"></td>
+        <td><img src="./allen_gifs/membrane_gt_3_-1_3_145.gif" width="128"></td>
+        <td><img src="./allen_gifs/membrane_ours_4.gif" width="128"></td>
+        <td><img src="./allen_gifs/membrane_gt_4_334_-32_-3.gif" width="128"></td>
+      </tr>
+    </table>
+
+    <h3>Structure</h3>
+    <table>
+      <tr>
+        <th>Sample 1 Ours</th>
+        <th>Sample 1 GT</th>
+        <th>Sample 2 Ours</th>
+        <th>Sample 2 GT</th>
+      </tr>
+      <tr>
+        <td><img src="./allen_gifs/strucutre_ours_3.gif" width="128"></td>
+        <td><img src="./allen_gifs/structure_gt_3_-24_12_31.gif" width="128"></td>
+        <td><img src="./allen_gifs/structure_ours_4.gif" width="128"></td>
+        <td><img src="./allen_gifs/structure_gt_4_-19_-31_-36.gif" width="128"></td>
+      </tr>
+    </table>
+
+  </div>
+</body>
+</html>
