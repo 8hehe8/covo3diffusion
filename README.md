@@ -1,3 +1,5 @@
+<div align="center">
+
 # CoVo3Diffusion
 
 **Consistency Preserved 3D Volume Reconstruction from Sparse 2D Slices  
@@ -5,7 +7,7 @@ via a Diffusion Framework for Volumetric Optical Imaging**
 
 Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
-
+</div>
 
 # Results
 
