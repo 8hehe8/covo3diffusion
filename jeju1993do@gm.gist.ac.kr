@@ -64,14 +64,15 @@
       Consistency Preserved 3D Volume Reconstruction from Sparse 2D Slices via a Diffusion Framework for Volumetric Optical Imaging
     </h1>
 
-    <div class="authors">
-      Eunjung Jo†, Hyun Jung Lee†, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
-    </div>
+  <div class="authors">
+    Eunjung Jo<sup>†</sup>, Hyun Jung Lee<sup>†</sup>, Minjoo Lim,
+    Young-Han Son, Tae-Eui Kam<sup>*</sup>
+  </div>
 
-    <div class="equal">
-      † These authors contributed equally to this work.
-    </div>
-
+  <div class="equal">
+    <sup>†</sup> These authors contributed equally to this work.
+  </div>
+    
     <h2>Results</h2>
     <h3>Allen Cell Dataset</h3>
 
