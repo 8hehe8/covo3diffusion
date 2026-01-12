@@ -7,30 +7,23 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 
 
 
-
 # Results
 
 <br>
 
-### DNA sample 1
+## DNA
 
 <br>
 
-| Ours | GT |
-|------|----|
-| <img src="allen_gifs/dna_3_test.gif" width="256"> | <img src="allen_gifs/dna_3_gt.gif" width="256"> |
+| Sample 1 Ours | Sample 1 GT | Sample 2 Ours | Sample 2 GT |
+|---------------|-------------|---------------|-------------|
+| <img src="allen_gifs/dna_3_test.gif" width="256"> | <img src="allen_gifs/dna_3_gt.gif" width="256"> | <img src="allen_gifs/dna_4_test.gif" width="256"> | <img src="allen_gifs/dna_4_gt.gif" width="256"> |
 
 <br><br>
 
-### DNA sample 2
+## Membrane
 
 <br>
-
-| Ours | GT |
-|------|----|
-| <img src="allen_gifs/dna_4_test.gif" width="256"> | <img src="allen_gifs/dna_4_gt.gif" width="256"> |
-
-<br><br>
 
 ### Membrane sample 1
 
@@ -51,6 +44,10 @@ Eunjung Jo, Hyun Jung Lee, Minjoo Lim, Young-Han Son, Tae-Eui Kam*
 | <img src="allen_gifs/membrane_4_test.gif" width="256"> | <img src="allen_gifs/membrane_4_gt.gif" width="256"> |
 
 <br><br>
+
+## Structure
+
+<br>
 
 ### Structure sample 1
 
